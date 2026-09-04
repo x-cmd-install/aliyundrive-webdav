@@ -7,7 +7,7 @@ about:
   head: 00caff6
   archived: true
   latestVersion: v2.3.3
-  collectedAt: 2026-09-04T19:25:32Z
+  collectedAt: 2026-09-04T21:05:33Z
 timeline:
   created: 2021-08-18
   lastCommit: 2026-02-20
@@ -86,6 +86,74 @@ total:
   openIssue: 17
   commit: 852
 ---
+path: /home/runner/.x-repo/github.com/messense/aliyundrive-webdav
+collectedAt: 2026-09-04T21:05:34Z
+loc:
+  Rust:
+    code: 2783
+    comments: 50
+    blanks: 231
+    files: 9
+  Lua:
+    code: 125
+    comments: 0
+    blanks: 33
+    files: 3
+  Toml:
+    code: 115
+    comments: 7
+    blanks: 18
+    files: 4
+  Python:
+    code: 90
+    comments: 0
+    blanks: 19
+    files: 1
+  Makefile:
+    code: 71
+    comments: 1
+    blanks: 21
+    files: 2
+  Dockerfile:
+    code: 34
+    comments: 6
+    blanks: 11
+    files: 2
+  Html:
+    code: 24
+    comments: 0
+    blanks: 2
+    files: 3
+  Yaml:
+    code: 21
+    comments: 0
+    blanks: 5
+    files: 1
+  Json:
+    code: 11
+    comments: 0
+    blanks: 0
+    files: 1
+  Sh:
+    code: 8
+    comments: 1
+    blanks: 2
+    files: 1
+  Markdown:
+    code: 0
+    comments: 202
+    blanks: 154
+    files: 2
+  Text:
+    code: 0
+    comments: 1
+    blanks: 0
+    files: 1
+total:
+  code: 3545
+  comments: 325
+  blanks: 552
+  files: 30
 ---
 date: "2026-08-24"
 repo:
