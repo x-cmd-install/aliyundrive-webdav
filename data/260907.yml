@@ -5,7 +5,7 @@ about:
   head: 00caff6
   archived: true
   latestVersion: "v2.3.3"
-  collectedAt: 2026-09-07T04:36:16Z
+  collectedAt: 2026-09-07T19:46:38Z
 timeline:
   created: 2021-08-18
   lastCommit: 2026-02-20
@@ -85,7 +85,7 @@ total:
   commit: 852
 ---
 path: /home/runner/.x-repo/github.com/messense/aliyundrive-webdav
-collectedAt: 2026-09-07T04:36:18Z
+collectedAt: 2026-09-07T19:46:39Z
 loc:
   Rust:
     code: 2783
@@ -321,7 +321,7 @@ checks:
       - 'Warn: 0 commits out of 23 are checked with a SAST tool'
 ---
 eget:
-  collectedAt: 2026-09-07T04:36:20+00:00
+  collectedAt: 2026-09-07T19:46:40+00:00
   platform:
     darwin/arm64:
       name:  aliyundrive-webdav-v2.3.3.apple-darwin.tar.gz
