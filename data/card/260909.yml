@@ -7,7 +7,7 @@ about:
   latestVersion: "v2.3.3"
   latestRelease: "v2.3.3"
   latestPrerelease: ""
-  collectedAt: 2026-09-09T04:45:36Z
+  collectedAt: 2026-09-09T18:52:50Z
 timeline:
   created: 2021-08-18
   lastCommit: 2026-02-20
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2023-10-02
   lastPrerelease: 
 popularity:
-  star: 9759
+  star: 9760
   watcher: 80
   fork: 1070
   release: 117
@@ -89,7 +89,7 @@ total:
   commit: 852
 ---
 path: /home/runner/.x-repo/github.com/messense/aliyundrive-webdav
-collectedAt: 2026-09-09T04:45:37Z
+collectedAt: 2026-09-09T18:52:51Z
 loc:
   Rust:
     code: 2783
