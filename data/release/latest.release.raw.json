@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 126,
       "digest": null,
-      "download_count": 38958,
+      "download_count": 38960,
       "created_at": "2023-10-02T02:24:51Z",
       "updated_at": "2023-10-02T02:24:51Z",
       "browser_download_url": "https://github.com/messense/aliyundrive-webdav/releases/download/v2.3.3/aliyundrive-webdav-v2.3.3.aarch64-unknown-linux-musl.tar.gz.sha256"
@@ -1003,7 +1003,7 @@
       "state": "uploaded",
       "size": 4241567,
       "digest": null,
-      "download_count": 14435,
+      "download_count": 14436,
       "created_at": "2023-10-02T02:25:09Z",
       "updated_at": "2023-10-02T02:25:09Z",
       "browser_download_url": "https://github.com/messense/aliyundrive-webdav/releases/download/v2.3.3/aliyundrive-webdav-v2.3.3.x86_64-unknown-linux-musl.tar.gz"
@@ -1039,7 +1039,7 @@
       "state": "uploaded",
       "size": 125,
       "digest": null,
-      "download_count": 35828,
+      "download_count": 35835,
       "created_at": "2023-10-02T02:25:09Z",
       "updated_at": "2023-10-02T02:25:09Z",
       "browser_download_url": "https://github.com/messense/aliyundrive-webdav/releases/download/v2.3.3/aliyundrive-webdav-v2.3.3.x86_64-unknown-linux-musl.tar.gz.sha256"
@@ -1075,7 +1075,7 @@
       "state": "uploaded",
       "size": 3623730,
       "digest": null,
-      "download_count": 4077,
+      "download_count": 4078,
       "created_at": "2023-10-02T02:32:33Z",
       "updated_at": "2023-10-02T02:32:34Z",
       "browser_download_url": "https://github.com/messense/aliyundrive-webdav/releases/download/v2.3.3/aliyundrive-webdav_2.3.3-1_aarch64_cortex-a53.ipk"
@@ -1111,7 +1111,7 @@
       "state": "uploaded",
       "size": 3623730,
       "digest": null,
-      "download_count": 507,
+      "download_count": 508,
       "created_at": "2023-10-02T02:31:38Z",
       "updated_at": "2023-10-02T02:31:38Z",
       "browser_download_url": "https://github.com/messense/aliyundrive-webdav/releases/download/v2.3.3/aliyundrive-webdav_2.3.3-1_aarch64_cortex-a72.ipk"
@@ -1147,7 +1147,7 @@
       "state": "uploaded",
       "size": 3623732,
       "digest": null,
-      "download_count": 4556,
+      "download_count": 4557,
       "created_at": "2023-10-02T02:31:32Z",
       "updated_at": "2023-10-02T02:31:33Z",
       "browser_download_url": "https://github.com/messense/aliyundrive-webdav/releases/download/v2.3.3/aliyundrive-webdav_2.3.3-1_aarch64_generic.ipk"
@@ -1183,7 +1183,7 @@
       "state": "uploaded",
       "size": 3643917,
       "digest": null,
-      "download_count": 324,
+      "download_count": 325,
       "created_at": "2023-10-02T02:32:59Z",
       "updated_at": "2023-10-02T02:33:00Z",
       "browser_download_url": "https://github.com/messense/aliyundrive-webdav/releases/download/v2.3.3/aliyundrive-webdav_2.3.3-1_arm_cortex-a5_vfpv4.ipk"
@@ -1219,7 +1219,7 @@
       "state": "uploaded",
       "size": 3643915,
       "digest": null,
-      "download_count": 341,
+      "download_count": 342,
       "created_at": "2023-10-02T02:31:56Z",
       "updated_at": "2023-10-02T02:31:57Z",
       "browser_download_url": "https://github.com/messense/aliyundrive-webdav/releases/download/v2.3.3/aliyundrive-webdav_2.3.3-1_arm_cortex-a7_neon-vfpv4.ipk"
@@ -1255,7 +1255,7 @@
       "state": "uploaded",
       "size": 3643908,
       "digest": null,
-      "download_count": 220,
+      "download_count": 221,
       "created_at": "2023-10-02T02:31:42Z",
       "updated_at": "2023-10-02T02:31:43Z",
       "browser_download_url": "https://github.com/messense/aliyundrive-webdav/releases/download/v2.3.3/aliyundrive-webdav_2.3.3-1_arm_cortex-a9.ipk"
@@ -1291,7 +1291,7 @@
       "state": "uploaded",
       "size": 3643907,
       "digest": null,
-      "download_count": 122,
+      "download_count": 123,
       "created_at": "2023-10-02T02:32:02Z",
       "updated_at": "2023-10-02T02:32:02Z",
       "browser_download_url": "https://github.com/messense/aliyundrive-webdav/releases/download/v2.3.3/aliyundrive-webdav_2.3.3-1_arm_mpcore.ipk"
@@ -1327,7 +1327,7 @@
       "state": "uploaded",
       "size": 4068511,
       "digest": null,
-      "download_count": 105,
+      "download_count": 106,
       "created_at": "2023-10-02T02:32:52Z",
       "updated_at": "2023-10-02T02:32:53Z",
       "browser_download_url": "https://github.com/messense/aliyundrive-webdav/releases/download/v2.3.3/aliyundrive-webdav_2.3.3-1_i386_pentium4.ipk"
@@ -1363,7 +1363,7 @@
       "state": "uploaded",
       "size": 3889087,
       "digest": null,
-      "download_count": 805,
+      "download_count": 806,
       "created_at": "2023-10-02T02:33:20Z",
       "updated_at": "2023-10-02T02:33:20Z",
       "browser_download_url": "https://github.com/messense/aliyundrive-webdav/releases/download/v2.3.3/aliyundrive-webdav_2.3.3-1_mipsel_24kc.ipk"
@@ -1399,7 +1399,7 @@
       "state": "uploaded",
       "size": 3888720,
       "digest": null,
-      "download_count": 203,
+      "download_count": 204,
       "created_at": "2023-10-02T02:31:24Z",
       "updated_at": "2023-10-02T02:31:25Z",
       "browser_download_url": "https://github.com/messense/aliyundrive-webdav/releases/download/v2.3.3/aliyundrive-webdav_2.3.3-1_mips_24kc.ipk"
@@ -1435,7 +1435,7 @@
       "state": "uploaded",
       "size": 3889056,
       "digest": null,
-      "download_count": 141,
+      "download_count": 142,
       "created_at": "2023-10-02T02:31:23Z",
       "updated_at": "2023-10-02T02:31:23Z",
       "browser_download_url": "https://github.com/messense/aliyundrive-webdav/releases/download/v2.3.3/aliyundrive-webdav_2.3.3-1_mips_siflower.ipk"
@@ -1471,7 +1471,7 @@
       "state": "uploaded",
       "size": 4243877,
       "digest": null,
-      "download_count": 4052,
+      "download_count": 4053,
       "created_at": "2023-10-02T02:32:44Z",
       "updated_at": "2023-10-02T02:32:44Z",
       "browser_download_url": "https://github.com/messense/aliyundrive-webdav/releases/download/v2.3.3/aliyundrive-webdav_2.3.3-1_x86_64.ipk"
@@ -1687,7 +1687,7 @@
       "state": "uploaded",
       "size": 21421,
       "digest": null,
-      "download_count": 10623,
+      "download_count": 10624,
       "created_at": "2023-10-02T02:31:34Z",
       "updated_at": "2023-10-02T02:31:34Z",
       "browser_download_url": "https://github.com/messense/aliyundrive-webdav/releases/download/v2.3.3/luci-app-aliyundrive-webdav_2.3.3_all.ipk"
@@ -1723,7 +1723,7 @@
       "state": "uploaded",
       "size": 2421,
       "digest": null,
-      "download_count": 10135,
+      "download_count": 10136,
       "created_at": "2023-10-02T02:31:34Z",
       "updated_at": "2023-10-02T02:31:34Z",
       "browser_download_url": "https://github.com/messense/aliyundrive-webdav/releases/download/v2.3.3/luci-i18n-aliyundrive-webdav-zh-cn_2.3.3-1_all.ipk"
