@@ -14,6 +14,28 @@
 x install aliyundrive-webdav
 ```
 
+## Code insight
+
+Total: **3,282** lines of code across **19** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Rust | 2,783 | 50 | 231 | 9 |
+| Lua | 125 | 0 | 33 | 3 |
+| Toml | 115 | 7 | 18 | 4 |
+| Python | 90 | 0 | 19 | 1 |
+| Makefile | 71 | 1 | 21 | 2 |
+
+## OpenSSF Scorecard
+
+Overall score: **3.6 / 10**
+
+Lowest-scoring checks:
+
+- **Maintained** (0/10) — project is archived
+- **Code-Review** (4/10) — Found 5/12 approved changesets -- score normalized to 4
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+
 ## Source
 
 - **Upstream**: <https://github.com/messense/aliyundrive-webdav>
@@ -24,6 +46,25 @@ x install aliyundrive-webdav
 - **Latest**: `v2.3.3` (2023-10-02)
 - **Last commit**: 2026-02-20
 - **Assets in release**: 47
+
+## Popularity
+
+- **Stars**: 9,760 · **Forks**: 1,069 · **Open issues**: 357 · **Contributors**: 19
+
+## Totals (cumulative)
+
+- **Releases**: 117 · **Merged PRs**: 150 · **Open PRs**: 8 · **Closed issues**: 340 · **Open issues**: 17 · **Commits**: 852
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-12 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-12 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-14 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-09-15 | 0 | 2 | 0 | 0 | 0 | 2 |
+| last720d | 2024-09-20 | 0 | 2 | 3 | 6 | 8 | 7 |
 
 ## Release assets
 
@@ -77,43 +118,9 @@ x install aliyundrive-webdav
 | [luci-app-aliyundrive-webdav_2.3.3_all.ipk](https://github.com/messense/aliyundrive-webdav/releases/download/v2.3.3/luci-app-aliyundrive-webdav_2.3.3_all.ipk) | 20.9 KiB | `other` |
 | [luci-i18n-aliyundrive-webdav-zh-cn_2.3.3-1_all.ipk](https://github.com/messense/aliyundrive-webdav/releases/download/v2.3.3/luci-i18n-aliyundrive-webdav-zh-cn_2.3.3-1_all.ipk) | 2.4 KiB | `other` |
 
-## Popularity
+## Distribution status
 
-- **Stars**: 9,760 · **Forks**: 1,069 · **Open issues**: 357 · **Contributors**: 19
-
-## Totals (cumulative)
-
-- **Releases**: 117 · **Merged PRs**: 150 · **Open PRs**: 8 · **Closed issues**: 340 · **Open issues**: 17 · **Commits**: 852
-
-## Recent activity
-
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-12 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-09-15 | 0 | 2 | 0 | 0 | 0 | 2 |
-
-## Code size
-
-Total: **3,282** lines of code across **19** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Rust | 2,783 | 50 | 231 | 9 |
-| Lua | 125 | 0 | 33 | 3 |
-| Toml | 115 | 7 | 18 | 4 |
-| Python | 90 | 0 | 19 | 1 |
-| Makefile | 71 | 1 | 21 | 2 |
-
-## OpenSSF Scorecard
-
-Overall score: **3.6 / 10**
-
-Lowest-scoring checks:
-
-- **Maintained** (0/10) — project is archived
-- **Code-Review** (4/10) — Found 5/12 approved changesets -- score normalized to 4
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+Reported by **3** distros on [repology.org](https://repology.org/project/aliyundrive-webdav). **3** are ✅ on the latest upstream release, **0** are ⚠️ on an older version.
 
 ## Improve this data
 
@@ -124,4 +131,4 @@ Install metadata for aliyundrive-webdav lives in the [x-cmd/install](https://git
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:35:50Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T20:49:45Z._
