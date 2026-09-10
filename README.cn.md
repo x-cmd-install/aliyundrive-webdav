@@ -6,7 +6,7 @@
 
 阿里云盘 WebDAV 服务
 
-![aliyundrive-webdav](https://repo.x-cmd.io/aliyundrive-webdav.svg)
+![aliyundrive-webdav](https://repo.x-cmd.io/aliyundrive-webdav.svg?lang=zh)
 
 ## 安装
 
@@ -24,7 +24,58 @@ x install aliyundrive-webdav
 - **最新版本**: `v2.3.3` (2023-10-02)
 - **最近提交**: 2026-02-20
 - **Release 含资产**: 47 个
-- **发布时间**: 2023-10-02T02:13:44Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [aliyundrive-webdav-2.3.3-1.aarch64.rpm](https://github.com/messense/aliyundrive-webdav/releases/download/v2.3.3/aliyundrive-webdav-2.3.3-1.aarch64.rpm) | 7.8 MiB | `runtime/rpm/aarch64` |
+| [aliyundrive-webdav-2.3.3-1.armv7.rpm](https://github.com/messense/aliyundrive-webdav/releases/download/v2.3.3/aliyundrive-webdav-2.3.3-1.armv7.rpm) | 7.6 MiB | `other` |
+| [aliyundrive-webdav-2.3.3-1.i686.rpm](https://github.com/messense/aliyundrive-webdav/releases/download/v2.3.3/aliyundrive-webdav-2.3.3-1.i686.rpm) | 8.2 MiB | `runtime/rpm/i686` |
+| [aliyundrive-webdav-2.3.3-1.x86_64.rpm](https://github.com/messense/aliyundrive-webdav/releases/download/v2.3.3/aliyundrive-webdav-2.3.3-1.x86_64.rpm) | 9.6 MiB | `runtime/rpm/x86_64` |
+| [aliyundrive-webdav-v2.3.3.aarch64-pc-windows-msvc.zip](https://github.com/messense/aliyundrive-webdav/releases/download/v2.3.3/aliyundrive-webdav-v2.3.3.aarch64-pc-windows-msvc.zip) | 3.3 MiB | `native/win/arm64` |
+| [aliyundrive-webdav-v2.3.3.aarch64-unknown-linux-musl.tar.gz](https://github.com/messense/aliyundrive-webdav/releases/download/v2.3.3/aliyundrive-webdav-v2.3.3.aarch64-unknown-linux-musl.tar.gz) | 3.5 MiB | `native/linux/arm64/musl` |
+| [aliyundrive-webdav-v2.3.3.aarch64-unknown-linux-musl.tar.gz.sha256](https://github.com/messense/aliyundrive-webdav/releases/download/v2.3.3/aliyundrive-webdav-v2.3.3.aarch64-unknown-linux-musl.tar.gz.sha256) | 126 B | `native/linux/arm64/musl` |
+| [aliyundrive-webdav-v2.3.3.apple-darwin.tar.gz](https://github.com/messense/aliyundrive-webdav/releases/download/v2.3.3/aliyundrive-webdav-v2.3.3.apple-darwin.tar.gz) | 7.8 MiB | `native/darwin/x64` |
+| [aliyundrive-webdav-v2.3.3.arm-unknown-linux-musleabi.tar.gz](https://github.com/messense/aliyundrive-webdav/releases/download/v2.3.3/aliyundrive-webdav-v2.3.3.arm-unknown-linux-musleabi.tar.gz) | 3.5 MiB | `native/linux/arm/musl` |
+| [aliyundrive-webdav-v2.3.3.arm-unknown-linux-musleabi.tar.gz.sha256](https://github.com/messense/aliyundrive-webdav/releases/download/v2.3.3/aliyundrive-webdav-v2.3.3.arm-unknown-linux-musleabi.tar.gz.sha256) | 126 B | `native/linux/arm/musl` |
+| [aliyundrive-webdav-v2.3.3.arm-unknown-linux-musleabihf.tar.gz](https://github.com/messense/aliyundrive-webdav/releases/download/v2.3.3/aliyundrive-webdav-v2.3.3.arm-unknown-linux-musleabihf.tar.gz) | 3.5 MiB | `native/linux/arm/musl` |
+| [aliyundrive-webdav-v2.3.3.arm-unknown-linux-musleabihf.tar.gz.sha256](https://github.com/messense/aliyundrive-webdav/releases/download/v2.3.3/aliyundrive-webdav-v2.3.3.arm-unknown-linux-musleabihf.tar.gz.sha256) | 128 B | `native/linux/arm/musl` |
+| [aliyundrive-webdav-v2.3.3.armv5te-unknown-linux-musleabi.tar.gz](https://github.com/messense/aliyundrive-webdav/releases/download/v2.3.3/aliyundrive-webdav-v2.3.3.armv5te-unknown-linux-musleabi.tar.gz) | 3.1 MiB | `native/linux/arm/musl` |
+| [aliyundrive-webdav-v2.3.3.armv5te-unknown-linux-musleabi.tar.gz.sha256](https://github.com/messense/aliyundrive-webdav/releases/download/v2.3.3/aliyundrive-webdav-v2.3.3.armv5te-unknown-linux-musleabi.tar.gz.sha256) | 130 B | `native/linux/arm/musl` |
+| [aliyundrive-webdav-v2.3.3.armv7-unknown-linux-musleabi.tar.gz](https://github.com/messense/aliyundrive-webdav/releases/download/v2.3.3/aliyundrive-webdav-v2.3.3.armv7-unknown-linux-musleabi.tar.gz) | 3.4 MiB | `native/linux/arm/musl` |
+| [aliyundrive-webdav-v2.3.3.armv7-unknown-linux-musleabi.tar.gz.sha256](https://github.com/messense/aliyundrive-webdav/releases/download/v2.3.3/aliyundrive-webdav-v2.3.3.armv7-unknown-linux-musleabi.tar.gz.sha256) | 128 B | `native/linux/arm/musl` |
+| [aliyundrive-webdav-v2.3.3.armv7-unknown-linux-musleabihf.tar.gz](https://github.com/messense/aliyundrive-webdav/releases/download/v2.3.3/aliyundrive-webdav-v2.3.3.armv7-unknown-linux-musleabihf.tar.gz) | 3.5 MiB | `native/linux/arm/musl` |
+| [aliyundrive-webdav-v2.3.3.armv7-unknown-linux-musleabihf.tar.gz.sha256](https://github.com/messense/aliyundrive-webdav/releases/download/v2.3.3/aliyundrive-webdav-v2.3.3.armv7-unknown-linux-musleabihf.tar.gz.sha256) | 130 B | `native/linux/arm/musl` |
+| [aliyundrive-webdav-v2.3.3.i686-pc-windows-msvc.zip](https://github.com/messense/aliyundrive-webdav/releases/download/v2.3.3/aliyundrive-webdav-v2.3.3.i686-pc-windows-msvc.zip) | 3.8 MiB | `native/win/x64` |
+| [aliyundrive-webdav-v2.3.3.i686-unknown-linux-musl.tar.gz](https://github.com/messense/aliyundrive-webdav/releases/download/v2.3.3/aliyundrive-webdav-v2.3.3.i686-unknown-linux-musl.tar.gz) | 3.9 MiB | `native/linux/x86/musl` |
+| [aliyundrive-webdav-v2.3.3.i686-unknown-linux-musl.tar.gz.sha256](https://github.com/messense/aliyundrive-webdav/releases/download/v2.3.3/aliyundrive-webdav-v2.3.3.i686-unknown-linux-musl.tar.gz.sha256) | 123 B | `native/linux/x86/musl` |
+| [aliyundrive-webdav-v2.3.3.mips-unknown-linux-musl.tar.gz](https://github.com/messense/aliyundrive-webdav/releases/download/v2.3.3/aliyundrive-webdav-v2.3.3.mips-unknown-linux-musl.tar.gz) | 3.7 MiB | `native/unknown` |
+| [aliyundrive-webdav-v2.3.3.mips-unknown-linux-musl.tar.gz.sha256](https://github.com/messense/aliyundrive-webdav/releases/download/v2.3.3/aliyundrive-webdav-v2.3.3.mips-unknown-linux-musl.tar.gz.sha256) | 123 B | `other` |
+| [aliyundrive-webdav-v2.3.3.mipsel-unknown-linux-musl.tar.gz](https://github.com/messense/aliyundrive-webdav/releases/download/v2.3.3/aliyundrive-webdav-v2.3.3.mipsel-unknown-linux-musl.tar.gz) | 3.7 MiB | `native/unknown` |
+| [aliyundrive-webdav-v2.3.3.mipsel-unknown-linux-musl.tar.gz.sha256](https://github.com/messense/aliyundrive-webdav/releases/download/v2.3.3/aliyundrive-webdav-v2.3.3.mipsel-unknown-linux-musl.tar.gz.sha256) | 125 B | `other` |
+| [aliyundrive-webdav-v2.3.3.x86_64-pc-windows-msvc.zip](https://github.com/messense/aliyundrive-webdav/releases/download/v2.3.3/aliyundrive-webdav-v2.3.3.x86_64-pc-windows-msvc.zip) | 4.1 MiB | `native/win/x64` |
+| [aliyundrive-webdav-v2.3.3.x86_64-unknown-linux-musl.tar.gz](https://github.com/messense/aliyundrive-webdav/releases/download/v2.3.3/aliyundrive-webdav-v2.3.3.x86_64-unknown-linux-musl.tar.gz) | 4.0 MiB | `native/linux/x64/musl` |
+| [aliyundrive-webdav-v2.3.3.x86_64-unknown-linux-musl.tar.gz.sha256](https://github.com/messense/aliyundrive-webdav/releases/download/v2.3.3/aliyundrive-webdav-v2.3.3.x86_64-unknown-linux-musl.tar.gz.sha256) | 125 B | `native/linux/x64/musl` |
+| [aliyundrive-webdav_2.3.3-1_aarch64_cortex-a53.ipk](https://github.com/messense/aliyundrive-webdav/releases/download/v2.3.3/aliyundrive-webdav_2.3.3-1_aarch64_cortex-a53.ipk) | 3.5 MiB | `other` |
+| [aliyundrive-webdav_2.3.3-1_aarch64_cortex-a72.ipk](https://github.com/messense/aliyundrive-webdav/releases/download/v2.3.3/aliyundrive-webdav_2.3.3-1_aarch64_cortex-a72.ipk) | 3.5 MiB | `other` |
+| [aliyundrive-webdav_2.3.3-1_aarch64_generic.ipk](https://github.com/messense/aliyundrive-webdav/releases/download/v2.3.3/aliyundrive-webdav_2.3.3-1_aarch64_generic.ipk) | 3.5 MiB | `other` |
+| [aliyundrive-webdav_2.3.3-1_arm_cortex-a5_vfpv4.ipk](https://github.com/messense/aliyundrive-webdav/releases/download/v2.3.3/aliyundrive-webdav_2.3.3-1_arm_cortex-a5_vfpv4.ipk) | 3.5 MiB | `other` |
+| [aliyundrive-webdav_2.3.3-1_arm_cortex-a7_neon-vfpv4.ipk](https://github.com/messense/aliyundrive-webdav/releases/download/v2.3.3/aliyundrive-webdav_2.3.3-1_arm_cortex-a7_neon-vfpv4.ipk) | 3.5 MiB | `other` |
+| [aliyundrive-webdav_2.3.3-1_arm_cortex-a9.ipk](https://github.com/messense/aliyundrive-webdav/releases/download/v2.3.3/aliyundrive-webdav_2.3.3-1_arm_cortex-a9.ipk) | 3.5 MiB | `other` |
+| [aliyundrive-webdav_2.3.3-1_arm_mpcore.ipk](https://github.com/messense/aliyundrive-webdav/releases/download/v2.3.3/aliyundrive-webdav_2.3.3-1_arm_mpcore.ipk) | 3.5 MiB | `other` |
+| [aliyundrive-webdav_2.3.3-1_i386_pentium4.ipk](https://github.com/messense/aliyundrive-webdav/releases/download/v2.3.3/aliyundrive-webdav_2.3.3-1_i386_pentium4.ipk) | 3.9 MiB | `other` |
+| [aliyundrive-webdav_2.3.3-1_mipsel_24kc.ipk](https://github.com/messense/aliyundrive-webdav/releases/download/v2.3.3/aliyundrive-webdav_2.3.3-1_mipsel_24kc.ipk) | 3.7 MiB | `other` |
+| [aliyundrive-webdav_2.3.3-1_mips_24kc.ipk](https://github.com/messense/aliyundrive-webdav/releases/download/v2.3.3/aliyundrive-webdav_2.3.3-1_mips_24kc.ipk) | 3.7 MiB | `other` |
+| [aliyundrive-webdav_2.3.3-1_mips_siflower.ipk](https://github.com/messense/aliyundrive-webdav/releases/download/v2.3.3/aliyundrive-webdav_2.3.3-1_mips_siflower.ipk) | 3.7 MiB | `other` |
+| [aliyundrive-webdav_2.3.3-1_x86_64.ipk](https://github.com/messense/aliyundrive-webdav/releases/download/v2.3.3/aliyundrive-webdav_2.3.3-1_x86_64.ipk) | 4.0 MiB | `other` |
+| [aliyundrive-webdav_2.3.3_amd64.deb](https://github.com/messense/aliyundrive-webdav/releases/download/v2.3.3/aliyundrive-webdav_2.3.3_amd64.deb) | 3.1 MiB | `runtime/deb/amd64` |
+| [aliyundrive-webdav_2.3.3_arm64.deb](https://github.com/messense/aliyundrive-webdav/releases/download/v2.3.3/aliyundrive-webdav_2.3.3_arm64.deb) | 2.7 MiB | `runtime/deb/arm64` |
+| [aliyundrive-webdav_2.3.3_armel.deb](https://github.com/messense/aliyundrive-webdav/releases/download/v2.3.3/aliyundrive-webdav_2.3.3_armel.deb) | 2.5 MiB | `other` |
+| [aliyundrive-webdav_2.3.3_armhf.deb](https://github.com/messense/aliyundrive-webdav/releases/download/v2.3.3/aliyundrive-webdav_2.3.3_armhf.deb) | 2.6 MiB | `runtime/deb/armhf` |
+| [aliyundrive-webdav_2.3.3_i386.deb](https://github.com/messense/aliyundrive-webdav/releases/download/v2.3.3/aliyundrive-webdav_2.3.3_i386.deb) | 3.0 MiB | `runtime/deb/i386` |
+| [luci-app-aliyundrive-webdav_2.3.3_all.ipk](https://github.com/messense/aliyundrive-webdav/releases/download/v2.3.3/luci-app-aliyundrive-webdav_2.3.3_all.ipk) | 20.9 KiB | `other` |
+| [luci-i18n-aliyundrive-webdav-zh-cn_2.3.3-1_all.ipk](https://github.com/messense/aliyundrive-webdav/releases/download/v2.3.3/luci-i18n-aliyundrive-webdav-zh-cn_2.3.3-1_all.ipk) | 2.4 KiB | `other` |
 
 ## 流行度
 
@@ -73,4 +124,4 @@ aliyundrive-webdav 的安装元数据由 [x-cmd/install](https://github.com/x-cm
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:56:34Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:35:50Z._
