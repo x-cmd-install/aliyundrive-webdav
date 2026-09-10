@@ -1,0 +1,34 @@
+- repo: aur
+  srcname: aliyundrive-webdav
+  binname: aliyundrive-webdav
+  visiblename: aliyundrive-webdav
+  version: 2.3.3
+  origversion: 2.3.3-1
+  status: newest
+  summary: 阿里云盘 WebDAV 服务
+  maintainers:
+    - tkit@aur
+    - autoupdatebot@aur
+  licenses:
+    - MIT
+- repo: aur
+  srcname: aliyundrive-webdav-bin
+  binname: aliyundrive-webdav-bin
+  visiblename: aliyundrive-webdav-bin
+  version: 2.3.3
+  origversion: 2.3.3-1
+  status: newest
+  summary: 阿里云盘 WebDAV 服务
+  maintainers:
+    - ayatale@aur
+  licenses:
+    - MIT
+- repo: scoop
+  subrepo: main
+  binname: aliyundrive-webdav
+  visiblename: aliyundrive-webdav
+  version: 2.3.3
+  origversion: null
+  status: newest
+  licenses:
+    - MIT
