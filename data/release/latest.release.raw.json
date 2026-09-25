@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 3621761,
       "digest": null,
-      "download_count": 15372,
+      "download_count": 15376,
       "created_at": "2023-10-02T02:24:51Z",
       "updated_at": "2023-10-02T02:24:52Z",
       "browser_download_url": "https://github.com/messense/aliyundrive-webdav/releases/download/v2.3.3/aliyundrive-webdav-v2.3.3.aarch64-unknown-linux-musl.tar.gz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 126,
       "digest": null,
-      "download_count": 39091,
+      "download_count": 39098,
       "created_at": "2023-10-02T02:24:51Z",
       "updated_at": "2023-10-02T02:24:51Z",
       "browser_download_url": "https://github.com/messense/aliyundrive-webdav/releases/download/v2.3.3/aliyundrive-webdav-v2.3.3.aarch64-unknown-linux-musl.tar.gz.sha256"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 3641559,
       "digest": null,
-      "download_count": 6553,
+      "download_count": 6560,
       "created_at": "2023-10-02T02:23:11Z",
       "updated_at": "2023-10-02T02:23:12Z",
       "browser_download_url": "https://github.com/messense/aliyundrive-webdav/releases/download/v2.3.3/aliyundrive-webdav-v2.3.3.arm-unknown-linux-musleabi.tar.gz"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 126,
       "digest": null,
-      "download_count": 12481,
+      "download_count": 12495,
       "created_at": "2023-10-02T02:23:11Z",
       "updated_at": "2023-10-02T02:23:11Z",
       "browser_download_url": "https://github.com/messense/aliyundrive-webdav/releases/download/v2.3.3/aliyundrive-webdav-v2.3.3.arm-unknown-linux-musleabi.tar.gz.sha256"
@@ -895,7 +895,7 @@
       "state": "uploaded",
       "size": 3886664,
       "digest": null,
-      "download_count": 9562,
+      "download_count": 9563,
       "created_at": "2023-10-02T02:20:01Z",
       "updated_at": "2023-10-02T02:20:01Z",
       "browser_download_url": "https://github.com/messense/aliyundrive-webdav/releases/download/v2.3.3/aliyundrive-webdav-v2.3.3.mipsel-unknown-linux-musl.tar.gz"
@@ -931,7 +931,7 @@
       "state": "uploaded",
       "size": 125,
       "digest": null,
-      "download_count": 4985,
+      "download_count": 4986,
       "created_at": "2023-10-02T02:20:01Z",
       "updated_at": "2023-10-02T02:20:01Z",
       "browser_download_url": "https://github.com/messense/aliyundrive-webdav/releases/download/v2.3.3/aliyundrive-webdav-v2.3.3.mipsel-unknown-linux-musl.tar.gz.sha256"
@@ -967,7 +967,7 @@
       "state": "uploaded",
       "size": 4347944,
       "digest": null,
-      "download_count": 3444,
+      "download_count": 3446,
       "created_at": "2023-10-02T02:26:01Z",
       "updated_at": "2023-10-02T02:26:02Z",
       "browser_download_url": "https://github.com/messense/aliyundrive-webdav/releases/download/v2.3.3/aliyundrive-webdav-v2.3.3.x86_64-pc-windows-msvc.zip"
@@ -1003,7 +1003,7 @@
       "state": "uploaded",
       "size": 4241567,
       "digest": null,
-      "download_count": 14482,
+      "download_count": 14486,
       "created_at": "2023-10-02T02:25:09Z",
       "updated_at": "2023-10-02T02:25:09Z",
       "browser_download_url": "https://github.com/messense/aliyundrive-webdav/releases/download/v2.3.3/aliyundrive-webdav-v2.3.3.x86_64-unknown-linux-musl.tar.gz"
@@ -1039,7 +1039,7 @@
       "state": "uploaded",
       "size": 125,
       "digest": null,
-      "download_count": 35961,
+      "download_count": 35968,
       "created_at": "2023-10-02T02:25:09Z",
       "updated_at": "2023-10-02T02:25:09Z",
       "browser_download_url": "https://github.com/messense/aliyundrive-webdav/releases/download/v2.3.3/aliyundrive-webdav-v2.3.3.x86_64-unknown-linux-musl.tar.gz.sha256"
@@ -1075,7 +1075,7 @@
       "state": "uploaded",
       "size": 3623730,
       "digest": null,
-      "download_count": 4080,
+      "download_count": 4082,
       "created_at": "2023-10-02T02:32:33Z",
       "updated_at": "2023-10-02T02:32:34Z",
       "browser_download_url": "https://github.com/messense/aliyundrive-webdav/releases/download/v2.3.3/aliyundrive-webdav_2.3.3-1_aarch64_cortex-a53.ipk"
