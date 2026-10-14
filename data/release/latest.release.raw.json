@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 8190551,
       "digest": null,
-      "download_count": 2603,
+      "download_count": 2604,
       "created_at": "2023-10-02T02:24:51Z",
       "updated_at": "2023-10-02T02:24:51Z",
       "browser_download_url": "https://github.com/messense/aliyundrive-webdav/releases/download/v2.3.3/aliyundrive-webdav-2.3.3-1.aarch64.rpm"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 7974363,
       "digest": null,
-      "download_count": 1335,
+      "download_count": 1336,
       "created_at": "2023-10-02T02:25:22Z",
       "updated_at": "2023-10-02T02:25:23Z",
       "browser_download_url": "https://github.com/messense/aliyundrive-webdav/releases/download/v2.3.3/aliyundrive-webdav-2.3.3-1.armv7.rpm"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 8588671,
       "digest": null,
-      "download_count": 318,
+      "download_count": 319,
       "created_at": "2023-10-02T02:25:53Z",
       "updated_at": "2023-10-02T02:25:54Z",
       "browser_download_url": "https://github.com/messense/aliyundrive-webdav/releases/download/v2.3.3/aliyundrive-webdav-2.3.3-1.i686.rpm"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 3489293,
       "digest": null,
-      "download_count": 2963,
+      "download_count": 2964,
       "created_at": "2023-10-02T02:26:36Z",
       "updated_at": "2023-10-02T02:26:37Z",
       "browser_download_url": "https://github.com/messense/aliyundrive-webdav/releases/download/v2.3.3/aliyundrive-webdav-v2.3.3.aarch64-pc-windows-msvc.zip"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 3641559,
       "digest": null,
-      "download_count": 6579,
+      "download_count": 6580,
       "created_at": "2023-10-02T02:23:11Z",
       "updated_at": "2023-10-02T02:23:12Z",
       "browser_download_url": "https://github.com/messense/aliyundrive-webdav/releases/download/v2.3.3/aliyundrive-webdav-v2.3.3.arm-unknown-linux-musleabi.tar.gz"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 3646342,
       "digest": null,
-      "download_count": 208,
+      "download_count": 209,
       "created_at": "2023-10-02T02:24:45Z",
       "updated_at": "2023-10-02T02:24:46Z",
       "browser_download_url": "https://github.com/messense/aliyundrive-webdav/releases/download/v2.3.3/aliyundrive-webdav-v2.3.3.arm-unknown-linux-musleabihf.tar.gz"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 3210188,
       "digest": null,
-      "download_count": 164,
+      "download_count": 165,
       "created_at": "2023-10-02T02:19:16Z",
       "updated_at": "2023-10-02T02:19:16Z",
       "browser_download_url": "https://github.com/messense/aliyundrive-webdav/releases/download/v2.3.3/aliyundrive-webdav-v2.3.3.armv5te-unknown-linux-musleabi.tar.gz"
@@ -715,7 +715,7 @@
       "state": "uploaded",
       "size": 4005535,
       "digest": null,
-      "download_count": 839,
+      "download_count": 841,
       "created_at": "2023-10-02T02:24:35Z",
       "updated_at": "2023-10-02T02:24:36Z",
       "browser_download_url": "https://github.com/messense/aliyundrive-webdav/releases/download/v2.3.3/aliyundrive-webdav-v2.3.3.i686-pc-windows-msvc.zip"
@@ -751,7 +751,7 @@
       "state": "uploaded",
       "size": 4066230,
       "digest": null,
-      "download_count": 270,
+      "download_count": 271,
       "created_at": "2023-10-02T02:25:53Z",
       "updated_at": "2023-10-02T02:25:53Z",
       "browser_download_url": "https://github.com/messense/aliyundrive-webdav/releases/download/v2.3.3/aliyundrive-webdav-v2.3.3.i686-unknown-linux-musl.tar.gz"
@@ -823,7 +823,7 @@
       "state": "uploaded",
       "size": 3886341,
       "digest": null,
-      "download_count": 283,
+      "download_count": 284,
       "created_at": "2023-10-02T02:19:40Z",
       "updated_at": "2023-10-02T02:19:41Z",
       "browser_download_url": "https://github.com/messense/aliyundrive-webdav/releases/download/v2.3.3/aliyundrive-webdav-v2.3.3.mips-unknown-linux-musl.tar.gz"
@@ -895,7 +895,7 @@
       "state": "uploaded",
       "size": 3886664,
       "digest": null,
-      "download_count": 9597,
+      "download_count": 9598,
       "created_at": "2023-10-02T02:20:01Z",
       "updated_at": "2023-10-02T02:20:01Z",
       "browser_download_url": "https://github.com/messense/aliyundrive-webdav/releases/download/v2.3.3/aliyundrive-webdav-v2.3.3.mipsel-unknown-linux-musl.tar.gz"
@@ -931,7 +931,7 @@
       "state": "uploaded",
       "size": 125,
       "digest": null,
-      "download_count": 5020,
+      "download_count": 5021,
       "created_at": "2023-10-02T02:20:01Z",
       "updated_at": "2023-10-02T02:20:01Z",
       "browser_download_url": "https://github.com/messense/aliyundrive-webdav/releases/download/v2.3.3/aliyundrive-webdav-v2.3.3.mipsel-unknown-linux-musl.tar.gz.sha256"
@@ -967,7 +967,7 @@
       "state": "uploaded",
       "size": 4347944,
       "digest": null,
-      "download_count": 3491,
+      "download_count": 3493,
       "created_at": "2023-10-02T02:26:01Z",
       "updated_at": "2023-10-02T02:26:02Z",
       "browser_download_url": "https://github.com/messense/aliyundrive-webdav/releases/download/v2.3.3/aliyundrive-webdav-v2.3.3.x86_64-pc-windows-msvc.zip"
@@ -1003,7 +1003,7 @@
       "state": "uploaded",
       "size": 4241567,
       "digest": null,
-      "download_count": 14534,
+      "download_count": 14539,
       "created_at": "2023-10-02T02:25:09Z",
       "updated_at": "2023-10-02T02:25:09Z",
       "browser_download_url": "https://github.com/messense/aliyundrive-webdav/releases/download/v2.3.3/aliyundrive-webdav-v2.3.3.x86_64-unknown-linux-musl.tar.gz"
@@ -1039,7 +1039,7 @@
       "state": "uploaded",
       "size": 125,
       "digest": null,
-      "download_count": 36077,
+      "download_count": 36082,
       "created_at": "2023-10-02T02:25:09Z",
       "updated_at": "2023-10-02T02:25:09Z",
       "browser_download_url": "https://github.com/messense/aliyundrive-webdav/releases/download/v2.3.3/aliyundrive-webdav-v2.3.3.x86_64-unknown-linux-musl.tar.gz.sha256"
@@ -1579,7 +1579,7 @@
       "state": "uploaded",
       "size": 2670976,
       "digest": null,
-      "download_count": 79,
+      "download_count": 80,
       "created_at": "2023-10-02T02:23:52Z",
       "updated_at": "2023-10-02T02:23:53Z",
       "browser_download_url": "https://github.com/messense/aliyundrive-webdav/releases/download/v2.3.3/aliyundrive-webdav_2.3.3_armel.deb"
@@ -1651,7 +1651,7 @@
       "state": "uploaded",
       "size": 3152324,
       "digest": null,
-      "download_count": 112,
+      "download_count": 113,
       "created_at": "2023-10-02T02:25:53Z",
       "updated_at": "2023-10-02T02:25:53Z",
       "browser_download_url": "https://github.com/messense/aliyundrive-webdav/releases/download/v2.3.3/aliyundrive-webdav_2.3.3_i386.deb"
