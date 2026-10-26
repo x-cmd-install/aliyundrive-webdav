@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 126,
       "digest": null,
-      "download_count": 39192,
+      "download_count": 39193,
       "created_at": "2023-10-02T02:24:51Z",
       "updated_at": "2023-10-02T02:24:51Z",
       "browser_download_url": "https://github.com/messense/aliyundrive-webdav/releases/download/v2.3.3/aliyundrive-webdav-v2.3.3.aarch64-unknown-linux-musl.tar.gz.sha256"
@@ -715,7 +715,7 @@
       "state": "uploaded",
       "size": 4005535,
       "digest": null,
-      "download_count": 937,
+      "download_count": 938,
       "created_at": "2023-10-02T02:24:35Z",
       "updated_at": "2023-10-02T02:24:36Z",
       "browser_download_url": "https://github.com/messense/aliyundrive-webdav/releases/download/v2.3.3/aliyundrive-webdav-v2.3.3.i686-pc-windows-msvc.zip"
@@ -967,7 +967,7 @@
       "state": "uploaded",
       "size": 4347944,
       "digest": null,
-      "download_count": 3612,
+      "download_count": 3619,
       "created_at": "2023-10-02T02:26:01Z",
       "updated_at": "2023-10-02T02:26:02Z",
       "browser_download_url": "https://github.com/messense/aliyundrive-webdav/releases/download/v2.3.3/aliyundrive-webdav-v2.3.3.x86_64-pc-windows-msvc.zip"
@@ -1003,7 +1003,7 @@
       "state": "uploaded",
       "size": 4241567,
       "digest": null,
-      "download_count": 14588,
+      "download_count": 14602,
       "created_at": "2023-10-02T02:25:09Z",
       "updated_at": "2023-10-02T02:25:09Z",
       "browser_download_url": "https://github.com/messense/aliyundrive-webdav/releases/download/v2.3.3/aliyundrive-webdav-v2.3.3.x86_64-unknown-linux-musl.tar.gz"
@@ -1039,7 +1039,7 @@
       "state": "uploaded",
       "size": 125,
       "digest": null,
-      "download_count": 36181,
+      "download_count": 36199,
       "created_at": "2023-10-02T02:25:09Z",
       "updated_at": "2023-10-02T02:25:09Z",
       "browser_download_url": "https://github.com/messense/aliyundrive-webdav/releases/download/v2.3.3/aliyundrive-webdav-v2.3.3.x86_64-unknown-linux-musl.tar.gz.sha256"
@@ -1471,7 +1471,7 @@
       "state": "uploaded",
       "size": 4243877,
       "digest": null,
-      "download_count": 4055,
+      "download_count": 4060,
       "created_at": "2023-10-02T02:32:44Z",
       "updated_at": "2023-10-02T02:32:44Z",
       "browser_download_url": "https://github.com/messense/aliyundrive-webdav/releases/download/v2.3.3/aliyundrive-webdav_2.3.3-1_x86_64.ipk"
