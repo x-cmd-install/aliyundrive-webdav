@@ -49,7 +49,7 @@ x install aliyundrive-webdav
 
 ## 流行度
 
-- **Star**: 9,696 · **Fork**: 1,056 · **开放 issue**: 357 · **贡献者**: 19
+- **Star**: 9,695 · **Fork**: 1,056 · **开放 issue**: 357 · **贡献者**: 19
 
 ## 累计统计
 
@@ -59,12 +59,12 @@ x install aliyundrive-webdav
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-25 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-26 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-28 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-29 | 0 | 2 | 0 | 0 | 0 | 2 |
-| last720d | 2024-12-04 | 0 | 2 | 2 | 6 | 5 | 7 |
+| 30d | 2026-10-26 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-26 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-27 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-29 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-30 | 0 | 2 | 0 | 0 | 0 | 2 |
+| last720d | 2024-12-05 | 0 | 2 | 2 | 6 | 5 | 7 |
 
 ## Release 资产
 
@@ -118,10 +118,6 @@ x install aliyundrive-webdav
 | [luci-app-aliyundrive-webdav_2.3.3_all.ipk](https://github.com/messense/aliyundrive-webdav/releases/download/v2.3.3/luci-app-aliyundrive-webdav_2.3.3_all.ipk) | 20.9 KiB | `other` |
 | [luci-i18n-aliyundrive-webdav-zh-cn_2.3.3-1_all.ipk](https://github.com/messense/aliyundrive-webdav/releases/download/v2.3.3/luci-i18n-aliyundrive-webdav-zh-cn_2.3.3-1_all.ipk) | 2.4 KiB | `other` |
 
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/aliyundrive-webdav) 上共有 **3** 个发行版报告此项目。**3** 个 ✅ 已是最新上游版本，**0** 个 ⚠️ 使用旧版本。
-
 ## 改进这些数据
 
 aliyundrive-webdav 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `aliyundrive-webdav` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -131,4 +127,4 @@ aliyundrive-webdav 的安装元数据由 [x-cmd/install](https://github.com/x-cm
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261124.yml` · 2026-11-24T11:31:02Z._
+_数据快照: `data/card/261125.yml` · 2026-11-25T08:36:48Z._
