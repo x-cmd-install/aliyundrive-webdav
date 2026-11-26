@@ -59,12 +59,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-26 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-26 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-27 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-29 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-30 | 0 | 2 | 0 | 0 | 0 | 2 |
-| last720d | 2024-12-05 | 0 | 2 | 2 | 6 | 5 | 7 |
+| 30d | 2026-10-27 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-27 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-28 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-30 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-12-01 | 0 | 2 | 0 | 0 | 0 | 2 |
+| last720d | 2024-12-06 | 0 | 2 | 2 | 6 | 5 | 7 |
 
 ## Release assets
 
@@ -118,6 +118,10 @@ Lowest-scoring checks:
 | [luci-app-aliyundrive-webdav_2.3.3_all.ipk](https://github.com/messense/aliyundrive-webdav/releases/download/v2.3.3/luci-app-aliyundrive-webdav_2.3.3_all.ipk) | 20.9 KiB | `other` |
 | [luci-i18n-aliyundrive-webdav-zh-cn_2.3.3-1_all.ipk](https://github.com/messense/aliyundrive-webdav/releases/download/v2.3.3/luci-i18n-aliyundrive-webdav-zh-cn_2.3.3-1_all.ipk) | 2.4 KiB | `other` |
 
+## Distribution status
+
+Reported by **3** distros on [repology.org](https://repology.org/project/aliyundrive-webdav). **3** are ✅ on the latest upstream release, **0** are ⚠️ on an older version.
+
 ## Improve this data
 
 Install metadata for aliyundrive-webdav lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `aliyundrive-webdav` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -127,4 +131,4 @@ Install metadata for aliyundrive-webdav lives in the [x-cmd/install](https://git
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261125.yml` · 2026-11-25T08:36:47Z._
+_Snapshot: `data/card/261126.yml` · 2026-11-26T08:51:30Z._
